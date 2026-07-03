@@ -4,7 +4,7 @@
 > active development and not yet stable. For the current stable CLI, see
 > [stable installation](#stable-installation).
 
-This is CircleCI's command-line interface.
+This is CircleCI's command-line application.
 
 [Documentation](https://cli.circleci.com/reference/) |
 [Code of Conduct](./CODE_OF_CONDUCT.md) |
